@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abduraxim
+- 👀 I’m interested Web application development
+- 🌱 I’m currently learning backend development
+- 💞️ I’m looking to collaborate on Java backend development
+- 📫 How to reach me abduraxim.coder@gmail.com and https://t.me/age_o19
